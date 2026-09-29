@@ -114,6 +114,3 @@ A mobile and web application designed to simplify part-time job management, allo
 
 ---
 
-<div align="center">
-  <sub>Created dynamically using automated workspace tools.</sub>
-</div>
