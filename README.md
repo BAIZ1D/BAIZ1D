@@ -106,11 +106,7 @@ A mobile and web application designed to simplify part-time job management, allo
   </tr>
 </table>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BAIZ1D&theme=tokyonight" alt="BAIZ1D's Contribution Graph" width="100%"/>
-</div>
 
 ---
 
