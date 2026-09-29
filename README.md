@@ -98,9 +98,6 @@ A mobile and web application designed to simplify part-time job management, allo
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=BAIZ1D&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="BAIZ1D's GitHub Stats" width="100%"/>
-    </td>
-    <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BAIZ1D&theme=tokyonight" alt="BAIZ1D's GitHub Streak" width="100%"/>
     </td>
   </tr>
