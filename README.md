@@ -26,13 +26,14 @@ A hybrid retrieval framework that evaluates cross-domain matching between citize
   <summary>BibTeX Citation</summary>
 
   ```bibtex
-@INPROCEEDINGS{11695534,
+  @INPROCEEDINGS{11695534,
   author={Al Hamid, Baizid and Salama, Shady and Kovacs, Mate and Serdült, Uwe},
   booktitle={2026 Twelfth International Conference on eDemocracy & eGovernment (ICEDEG)}, 
   title={Automating Legal Statute Matching in Online Petition Systems}, 
   year={2026},
   pages={356-363},
-  doi={10.1109/ICEDEG70169.2026.11695534}}
+  doi={10.1109/ICEDEG70169.2026.11695534}
+  }
   ```
   </details>
 
